@@ -12,4 +12,4 @@ const timer = setInterval(() => {
         setTime.innerHTML = ""
         clearInterval(timer)
     }
-}, 100)
+}, 1000)
